@@ -141,7 +141,7 @@ As of April 1, 2019…
 
 Project Members |   Project Team Role   |	Responsibilities
 --------------- | --------------------- | ------------------
-Czarina Ramos   |	Project Manager, Programmer |   Manage the Project and the team. Maintain documentation and schedule. Collaborate with Testing sessions and reports. Code and Implement Mini-map elements, Shooting and Stealth elements.
+Czarina Ramos   |	Project Manager |   Manage the Project and the team. Maintain documentation and schedule. Collaborate with Testing sessions and reports. Code and Implement Mini-map elements.
 Vincent Pitre   |   Concept Artist, Character Artist, Animator  |   Draw Concept Art, model and texture characters and animate characters.
 Prathap Ravichander |   Programmer, QA  |   Code and implement a lot of the game’s mechanics, AI, camera, character, controller, UI, Inventory and Stealth Elements. Collaborate with Testing sessions and reports.
 Haad Hassan |  Level designer  |  Paper plan, white-box and set dress the game’s level. Light mapping and lighting implementation.
