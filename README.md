@@ -648,12 +648,12 @@ void OnBeginOverlap (UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UP
 Milestone |   Date  |	Deliverable
 ------------------------------|-----------------------------|----------------------------
 End of Pre-Production   |   April 16, 2019  |   Functional prototype created featuring simplified AI, most Player Controller features working with minimal errors.  
-M1  |   May 17, 2019    |
-M2  |   June 7, 2019    |
-M3  |   June 28, 2019   |
-Alpha   |   July 12, 2019   |
-Beta    |   July 26, 2019   |
-Final   |   August 2, 2019  |
+M1  |   May 10, 2019    |
+M2  |   May 30, 2019    |
+M3  |   June 19, 2019   |
+Alpha   |   July 5, 2019   |
+Beta    |   July 19, 2019   |
+Final   |   July 26, 2019  |
 
 --------------------------------------------------------------
 --------------------------------------------------------------------
